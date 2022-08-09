@@ -11,7 +11,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 
-```{r}
+```
 # example of r-code. default must be to display but not execute? unsure why not executed
 plot(1:10, 1:10)
 ```
